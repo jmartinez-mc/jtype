@@ -28,6 +28,10 @@ public class jtype {
 			filename = JOptionPane.showInputDialog("Nombre del Fichero");			
 		}
 
+		// TODO: 
+		// Leer fichero para mostrar contenido en consola
+		// No olvides Usar la sentencia try-with-resources
+		// ¡Buena suerte!	
 		
 	}
 
